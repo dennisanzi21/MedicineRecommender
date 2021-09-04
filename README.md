@@ -15,3 +15,10 @@ __How to Run__  (Noted that there are several deendencies must be import for the
 5. Supervised learning: [drug_recommendation-nlp_supervised.ipynb](https://github.com/jisong316/drug-recommendation/blob/master/drug_recommendation-nlp_supervised.ipynb)  
 6. Summary of my data: presentation slides [drug_review.pdf](https://github.com/jisong316/drug-recommendation/blob/master/drug_review.pdf)
 
+
+__For Web Demo__  (Noted that there are several deendencies must be import for the codes to work)
+1. Getting github repository: https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29  
+2. initialise installation: 
+step 1: pip install widgetsnbextension
+step 2: pip install ipywidgets
+step 3: pip install voila
