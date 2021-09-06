@@ -24,3 +24,4 @@ step 2: pip install ipywidgets
 step 3: pip install voila
 
 Please refer this youtube for more info, https://youtu.be/t8P6estGusQ
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dennisanzi21/drug-recommendation/HEAD?urlpath=%2Fvoila%2Frender%2Ftest.ipynb)
