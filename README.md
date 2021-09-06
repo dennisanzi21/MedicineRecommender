@@ -22,3 +22,5 @@ __For Web Demo__  (Noted that there are several deendencies must be import for t
 step 1: pip install widgetsnbextension
 step 2: pip install ipywidgets
 step 3: pip install voila
+
+Please refer this youtube for more info, https://youtu.be/t8P6estGusQ
